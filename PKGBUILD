@@ -1,4 +1,4 @@
-# Maintainer: Your Name <youremail@domain.com>
+# Maintainer: David Runge <dvzrv@archlinux.org>
 
 _name=annotated-types
 pkgname=python-annotated-types
